@@ -1,5 +1,6 @@
 # python-100-day-challenge
 My 100-day journey learning Python through daily hands-on projects, challenges, and experimentation.
+
 🟢 Days 1–20: Foundations
 
  Day 1 – Hello World Variations
