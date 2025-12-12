@@ -3,11 +3,11 @@ My 100-day journey learning Python through daily hands-on projects, challenges, 
 
 🟢 Days 1–20: Foundations
 
- Day 1 – Hello World Variations
+ Day 1 – Hello World Variations ✅
 
- Day 2 – Simple Calculator
+ Day 2 – Simple Calculator ✅
 
- Day 3 – Number Guessing Game
+ Day 3 – Number Guessing Game ✅
 
  Day 4 – Dice Roller
 
