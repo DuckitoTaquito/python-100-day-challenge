@@ -11,7 +11,7 @@ My 100-day journey learning Python through daily hands-on projects, challenges, 
 
  Day 4 – Dice Roller ✅
 
- Day 5 – Temperature Converter
+ Day 5 – Temperature Converter ✅
 
  Day 6 – Mad Libs Generator
 
