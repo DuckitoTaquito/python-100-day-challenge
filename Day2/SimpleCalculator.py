@@ -31,9 +31,9 @@ while True:
             else:
                   result = num1 / num2
                   print(f"{num1} / {num2} = {result}")
-#Asks the user if they want to continue if n then program closes out
       else:
             print("Error please choose one of the following options")
+#Asks the user if they want to continue if n then program closes out
       again = input("Calculate again? (y/n): ")
       if again != "y" and again != "Y":
             print("Goodbye!")

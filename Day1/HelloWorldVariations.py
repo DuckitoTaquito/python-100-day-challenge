@@ -1,3 +1,4 @@
+#This asks the user for what type of Hello World! message they would like
 print("""
       --------------------------
       1: Hello, World!
@@ -11,12 +12,9 @@ print("""
       9: Emoji style
       """)
 
-
+#This stores the input value into a variable
 variations = int(input("What style of hello world would you like? (1-9): "))
-
-
-
-
+#Control flow practice taking a number from variations to choose and then print what style of Hello World! the user selected
 if variations == 1:
     print("Hello, World!")
 elif variations == 2:
